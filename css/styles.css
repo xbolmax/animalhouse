@@ -1,0 +1,120 @@
+*{
+    padding: 1;
+    margin: 30;
+    
+}
+.one img{
+    width: 100%;
+    height: 90%;
+}
+.wad{
+    text-align: center;
+}
+.wad label, .wad , .wad a{
+    color: whitesmoke;
+    font-size: 1vmax;
+}
+.wad Label{
+    margin-right: 58vmax;
+}
+.wad{
+    background-color: rgb(22, 22, 22);
+}
+.wad a{
+    text-decoration: none;
+}
+.wad span{
+    margin-right: 10px;
+}
+/* banner section  */
+.wad1 h1{
+    text-align: start;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+.wad1 p{
+    color: rgb(95, 92, 92);
+}
+.nav-link:hover{
+    color: whitesmoke;
+}
+.nav-link{
+    color: rgb(194, 194, 194);
+}
+.nav-link{
+    text-align: center;
+
+}
+.wad1 span{
+    margin-right: 29.5vmax;
+    margin-left: 7.5vmax;
+}
+/* Vision section */
+.two{
+    text-align: center;
+}
+.two p, .two h1{
+    color: grey;
+}
+/* images/written section  */
+.three img{
+  width: 100%;
+  border: 3px solid rgb(70, 68, 68);
+  background: #eee;
+  margin: auto;
+  padding: 15px 10px;
+}
+.three h3{
+    color: grey;
+    text-align: center;
+}
+.four{
+    text-align: center;
+}
+.four {
+    background-color: rgb(236, 233, 233);
+}
+.five img{
+    width: 100%;
+}
+
+/* Footer section  */
+.six {
+    color: white;
+}
+.six a{
+    text-decoration: none;
+}
+.seven{
+    background-color: black;
+}
+.seven img{
+    margin-left: 10vmax;
+}
+.eight h1{
+    color: gray;
+    text-align: center;
+}
+.eight img{
+    width: 100%;
+    border-style: double;
+}
+iframe{
+    height: 18vmax;
+    width: 100%;
+}
+.text-light{
+    text-align: center;
+}
+.nine{
+    text-align: center;
+}
+.border{
+    border: 2px solid white;
+    width: 40vmax;
+    margin-left: 25vmax;
+    border-width: 20vmax;
+   
+   
+  
+}
