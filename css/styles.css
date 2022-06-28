@@ -13,6 +13,7 @@
 .wad label, .wad , .wad a{
     color: whitesmoke;
     font-size: 1vmax;
+    
 }
 .wad Label{
     margin-right: 58vmax;
@@ -31,9 +32,11 @@
     text-align: start;
     color: whitesmoke;
     font-weight: bolder;
+    text-shadow: .1vmax .1vmax gray;
 }
 .wad1 p{
     color: rgb(95, 92, 92);
+    text-shadow: 1px 1px white;
 }
 .nav-link:hover{
     color: whitesmoke;
