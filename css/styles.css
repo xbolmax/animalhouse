@@ -114,7 +114,8 @@ iframe{
     width: 40vmax;
     margin-left: 25vmax;
     border-width: 20vmax;
-   
-   
-  
+}
+.login a{
+    text-decoration: none;
+    color: white;
 }
