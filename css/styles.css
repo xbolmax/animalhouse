@@ -32,11 +32,11 @@
     text-align: start;
     color: whitesmoke;
     font-weight: bolder;
-    text-shadow: .1vmax .1vmax gray;
+    
 }
 .wad1 p{
     color: rgb(95, 92, 92);
-    text-shadow: 1px 1px white;
+   
 }
 .nav-link:hover{
     color: whitesmoke;
@@ -73,6 +73,8 @@
 }
 .four{
     text-align: center;
+    border: black;
+    border-radius: 80px;
 }
 .four {
     background-color: rgb(236, 233, 233);
@@ -80,7 +82,6 @@
 .five img{
     width: 100%;
 }
-
 /* Footer section  */
 .six {
     color: white;
